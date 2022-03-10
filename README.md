@@ -26,13 +26,13 @@ It includes an example Automator Workflow called "send_message" that will send a
 This only works on MacOS, and I have only tested it on BigSur and Monterey.
 
 ### Installation
-1. Download a copy of this repo as a ZIP. Click the green Code button at the top right of the page, then Download ZIP.
+1. Click the green Code button at the top right of the page, then Download ZIP.
 2. Extract the files into a folder.
 3. Following the path names provided in the zip file, copy postcat.py into:
    ```
    /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Deliver/
    ```
-4. Copy the Post Automations from Documents into "Documents".
+4. Copy the Post Automations directory into "Documents".
    ```
    ~/Documents/Post Automations/
    ```
