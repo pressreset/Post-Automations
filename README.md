@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/22809021/158537191-073cde41-8af5-44c7-bdcf-df275f63e12b.png" alt="icon"></img>
   <h1 align="center">Post Automations</h1>
 
   <p align="center">
